@@ -1,0 +1,35 @@
+body {
+  background-color: #dd9eca;
+}
+
+header {
+  text-align: center;
+  color: #ffffff;
+  font-size: 32px;
+}
+
+section {
+  margin: auto;
+  background-color: #ffffff;
+  border-radius: 30px;
+  font-size: 18px;
+  height: 250px;
+  width: 500px;
+}
+
+#dados {
+  padding-top: 30px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+#res {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  color: #000000;
+  font-style: italic;
+}
