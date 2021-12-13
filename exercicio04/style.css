@@ -1,9 +1,10 @@
 body {
-  background-color: #e0e95e;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: #d87093;
+  font-family: "Courier New", Courier, monospace;
 }
 header {
   text-align: center;
+  color: #ffffff;
 }
 
 section {
@@ -12,7 +13,7 @@ section {
   width: 400px;
   padding: 20px;
   border-radius: 30px;
-  background-color: #ffffff;
+  background-color: #ffc0cb;
 }
 
 input {
