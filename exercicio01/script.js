@@ -7,7 +7,7 @@ function carregar() {
 //   var hora = 19;
   mensagem.innerHTML = `Agora são ${hora}h`;
   if (hora >= 0 && hora < 12) {
-    imagem.src = 'dia.jpeg';
+    document.imagem.src = 'dia.jpeg';
     document.body.style.background = '#e2cd9f'
   } else if (hora >= 12 && hora < 18) {
     imagem.src = "tarde.jpg";
